@@ -1,6 +1,3 @@
-import Image from "next/image";
-import banner from "../../public/baner_web_Alotria_2018.jpg";
-
 export default function Home() {
   return (
     <div>
